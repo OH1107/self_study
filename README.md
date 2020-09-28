@@ -8,7 +8,7 @@
 
 ## [chapter 04 데이터 전처리 및 기초분석](https://github.com/OH1107/statistics/blob/master/training/chapter04/4%EC%9E%A5_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EA%B8%B0%EC%B4%88%EB%B6%84%EC%84%9D.ipynb)
 
-## chapter 05 기술통계분석
+## [chapter 05 기술통계분석](https://github.com/OH1107/statistics/blob/master/training/chapter05/5%EC%9E%A5_%EA%B8%B0%EC%88%A0%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D.ipynb)
 
 ## chapter 06 t-검정
 
