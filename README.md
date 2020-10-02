@@ -2,7 +2,7 @@
 - self-study with the book 'Step by Step 파이썬 비즈니스 통계분석' 
 ## chapter 01 마케팅과학을 위한 통계분석
 
-## chapter 02 확률통계개론
+## [chapter 02 확률통계개론](https://github.com/OH1107/statistics/blob/master/training/chapter02/2%EC%9E%A5_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84%EA%B0%9C%EB%A1%A0.ipynb)
 
 ## chapter 03 파이썬 기초
 
