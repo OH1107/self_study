@@ -17,3 +17,5 @@
 ### [chapter 07 상관관계 분석](https://github.com/OH1107/statistics/blob/master/training/chapter07/7%EC%9E%A5_%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84_%EB%B6%84%EC%84%9D.ipynb)
 
 ### [chapter 08 범주형 데이터 분석](https://github.com/OH1107/statistics/blob/master/training/chapter08/8%EC%9E%A5_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.ipynb)
+
+### [chapter 09 신뢰성 분석](https://github.com/OH1107/statistics/blob/master/training/chapter09/9%EC%9E%A5_%EC%8B%A0%EB%A2%B0%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
