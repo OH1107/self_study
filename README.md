@@ -1,4 +1,5 @@
 # statistics
+![image](https://user-images.githubusercontent.com/67505208/95998342-bb367880-0e6f-11eb-938c-606c1e2a9bd0.png)
 - 본 리포는 기초적인 통계 개념을 실습, 기록하기 위함이다.
 - 책 'Step by Step 파이썬 비즈니스 통계분석-김형수 (출판사 : PREDICS)'으로 공부하였다.
 ## Contents
