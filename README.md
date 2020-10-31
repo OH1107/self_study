@@ -28,4 +28,4 @@
 
 - [chapter 12 요인분석](https://github.com/OH1107/statistics/blob/master/training/chapter12/12%EC%9E%A5_%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D.ipynb)
 
-- chapter 15 포지셔닝 분석
+- [chapter 15 포지셔닝 분석](https://github.com/OH1107/statistics/blob/master/training/chapter15/15%EC%9E%A5_%ED%8F%AC%EC%A7%80%EC%85%94%EB%8B%9D%EB%B6%84%EC%84%9D.ipynb)
