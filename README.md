@@ -30,4 +30,5 @@
 
 - [chapter 13 분류예측분석](https://github.com/OH1107/statistics/blob/master/training/chapter13/13%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%B6%84%EC%84%9D.ipynb)
 
+- [chapter 14]
 - [chapter 15 포지셔닝 분석](https://github.com/OH1107/statistics/blob/master/training/chapter15/15%EC%9E%A5_%ED%8F%AC%EC%A7%80%EC%85%94%EB%8B%9D%EB%B6%84%EC%84%9D.ipynb)
