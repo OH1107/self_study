@@ -10,4 +10,18 @@
 - 기간 : 2020.11.09. ~
 
 ## Contents
--
+### Chapter 1 한눈에 보는 머신러닝_[code](https://github.com/OH1107/self_study/blob/master/Machine_Learning/code/01_the_machine_learning_landscape.ipynb)
+- 머신러닝의 정의 및 개념
+- 머신러닝 애플리케이션의 사례
+- 머신러닝 시스템의 종류
+- 선형 회귀 모형 실습
+  - 삶의 만족도와 GDP의 관계
+### Chapter 2 머신러닝 프로젝트 처음부터 끝까지_[code](https://github.com/OH1107/self_study/blob/master/Machine_Learning/code/02_end_to_end_machine_learning_project.ipynb)
+- 실제 데이터로 작업하기
+  - 캘리포니아 주택가격 예측하기
+- 데이터 탐색과 시각화
+- 머신러닝 알고리즘을 수행하기 위한 전처리
+- 모델 선택과 훈련
+- 모델 세부 튜닝
+- 론칭, 모니터링, 시스템 유지 보수
+- 위 내용을 바탕으로 직접 실습하기
