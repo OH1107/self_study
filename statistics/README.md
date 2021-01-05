@@ -14,7 +14,7 @@
 
 ### chapter 05 기술통계분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/5%EC%9E%A5_%EA%B8%B0%EC%88%A0%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D.ipynb)
 
-- [chapter 06 t-검정](https://github.com/OH1107/self_study/blob/master/statistics/training/6%EC%9E%A5_t_%EA%B2%80%EC%A0%95.ipynb)
+### chapter 06 t-검정 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/6%EC%9E%A5_t_%EA%B2%80%EC%A0%95.ipynb)
 
 - [chapter 07 상관관계 분석](https://github.com/OH1107/self_study/blob/master/statistics/training/7%EC%9E%A5_%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84_%EB%B6%84%EC%84%9D.ipynb)
 
