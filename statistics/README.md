@@ -5,9 +5,8 @@
 - 아래 **Contents**에 chapter별로 정리하여 개념과 통계 기법을 활용하기 위한 소스 코드를 첨부하였다.
 - 기간 : 2020.09.25. ~ 2020.11.03.
 ## Contents
-- chapter 01 마케팅과학을 위한 통계분석
-
-- [chapter 02 확률통계개론](https://github.com/OH1107/self_study/blob/master/statistics/training/2%EC%9E%A5_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84%EA%B0%9C%EB%A1%A0.ipynb)
+### chapter 01 마케팅과학을 위한 통계분석
+### [chapter 02 확률통계개론](https://github.com/OH1107/self_study/blob/master/statistics/training/2%EC%9E%A5_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84%EA%B0%9C%EB%A1%A0.ipynb)
 
 - chapter 03 파이썬 기초
 
