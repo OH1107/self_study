@@ -39,7 +39,7 @@
 
 ### chapter 12 요인분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/12%EC%9E%A5_%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D.ipynb)
 
-- [chapter 13 분류예측분석](https://github.com/OH1107/self_study/blob/master/statistics/training/13%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%B6%84%EC%84%9D.ipynb)
+### chapter 13 분류예측분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/13%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%B6%84%EC%84%9D.ipynb)
 
 - [chapter 14 군집분석](https://github.com/OH1107/self_study/blob/master/statistics/training/14%EC%9E%A5_%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D_%EC%88%98%EC%A0%95.ipynb)
 
