@@ -33,7 +33,7 @@
 
 ### chapter 09 신뢰성 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/9%EC%9E%A5_%EC%8B%A0%EB%A2%B0%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
 
-- [chapter 10 분산분석](https://github.com/OH1107/self_study/blob/master/statistics/training/10%EC%9E%A5_%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D.ipynb)
+### [chapter 10 분산분석](https://github.com/OH1107/self_study/blob/master/statistics/training/10%EC%9E%A5_%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D.ipynb)
 
 - [chapter 11 회귀분석](https://github.com/OH1107/self_study/blob/master/statistics/training/11%EC%9E%A5_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
 
