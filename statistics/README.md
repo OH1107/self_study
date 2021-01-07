@@ -43,7 +43,7 @@
 
 ### chapter 14 군집분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/14%EC%9E%A5_%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D_%EC%88%98%EC%A0%95.ipynb)
 
-- [chapter 15 포지셔닝 분석](https://github.com/OH1107/self_study/blob/master/statistics/training/15%EC%9E%A5_%ED%8F%AC%EC%A7%80%EC%85%94%EB%8B%9D%EB%B6%84%EC%84%9D.ipynb)
+### chapter 15 포지셔닝 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/15%EC%9E%A5_%ED%8F%AC%EC%A7%80%EC%85%94%EB%8B%9D%EB%B6%84%EC%84%9D.ipynb)
 
 - [chapter 16 컨조인트 분석](https://github.com/OH1107/self_study/blob/master/statistics/training/16%EC%9E%A5_%EC%BB%A8%EC%A1%B0%EC%9D%B8%ED%8A%B8%EB%B6%84%EC%84%9D_%EC%88%98%EC%A0%95.ipynb)
 
