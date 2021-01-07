@@ -37,7 +37,7 @@
 
 ### chapter 11 회귀분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/11%EC%9E%A5_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
 
-- [chapter 12 요인분석](https://github.com/OH1107/self_study/blob/master/statistics/training/12%EC%9E%A5_%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D.ipynb)
+### chapter 12 요인분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/12%EC%9E%A5_%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D.ipynb)
 
 - [chapter 13 분류예측분석](https://github.com/OH1107/self_study/blob/master/statistics/training/13%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%B6%84%EC%84%9D.ipynb)
 
