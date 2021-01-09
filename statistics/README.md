@@ -18,6 +18,8 @@
   - 분석 및 검정 통계량 산출
   - 결과 해석 및 가설 검증
 ### chapter 02 확률통계개론 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/2%EC%9E%A5_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84%EA%B0%9C%EB%A1%A0.ipynb)
+- 확률기초이론
+- 통계기초이론
 
 ### chapter 03 파이썬 기초
 
