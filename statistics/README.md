@@ -19,9 +19,17 @@
   - 결과 해석 및 가설 검증
 ### chapter 02 확률통계개론 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/2%EC%9E%A5_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84%EA%B0%9C%EB%A1%A0.ipynb)
 - 확률기초이론
+  - 확률
+  - 확률변수와 확률분포
 - 통계기초이론
+  - 통계학
+  - 추정
+  - 가설검정
 
 ### chapter 03 파이썬 기초
+- 파이썬 소개
+- 파이썬 프로그램 기초
+- 데이터 분석을 위한 파이썬 라이브러리
 
 ### chapter 04 데이터 전처리 및 기초분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/4%EC%9E%A5_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EA%B8%B0%EC%B4%88%EB%B6%84%EC%84%9D.ipynb)
 
