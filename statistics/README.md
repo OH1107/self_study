@@ -63,6 +63,6 @@
 
 ### chapter 16 컨조인트 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/16%EC%9E%A5_%EC%BB%A8%EC%A1%B0%EC%9D%B8%ED%8A%B8%EB%B6%84%EC%84%9D_%EC%88%98%EC%A0%95.ipynb)
 
-- [chapter 17 비모수 통계분석](https://github.com/OH1107/self_study/blob/master/statistics/training/17%EC%9E%A5_%EB%B9%84%EB%AA%A8%EC%88%98_%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D_%EC%88%98%EC%A0%95.ipynb)
+### [chapter 17 비모수 통계분석](https://github.com/OH1107/self_study/blob/master/statistics/training/17%EC%9E%A5_%EB%B9%84%EB%AA%A8%EC%88%98_%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D_%EC%88%98%EC%A0%95.ipynb)
 
 ---
