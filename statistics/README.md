@@ -42,6 +42,7 @@
 ### chapter 05 기술통계분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/5%EC%9E%A5_%EA%B8%B0%EC%88%A0%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D.ipynb)
 - 평균, 분산, 표준편차
 - 왜도와 첨도
+- 기타 기술통계량
 
 ### chapter 06 t-검정 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/6%EC%9E%A5_t_%EA%B2%80%EC%A0%95.ipynb)
 
