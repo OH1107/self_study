@@ -53,6 +53,7 @@
 ### chapter 07 상관관계 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/7%EC%9E%A5_%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84_%EB%B6%84%EC%84%9D.ipynb)
 - 수치형 변수의 상관관계 분석
 - 편(부분) 상관관계 분석
+- 순서형 변수의 상관관계 분석
 
 ### chapter 08 범주형 데이터 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/8%EC%9E%A5_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.ipynb)
 
