@@ -46,6 +46,8 @@
 
 ### chapter 06 t-검정 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/6%EC%9E%A5_t_%EA%B2%80%EC%A0%95.ipynb)
 - t-검정 기초
+- 일표본 t-검정
+
 
 ### chapter 07 상관관계 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/7%EC%9E%A5_%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84_%EB%B6%84%EC%84%9D.ipynb)
 
