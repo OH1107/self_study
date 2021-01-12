@@ -57,6 +57,9 @@
 - 정준상관분석
 
 ### chapter 08 범주형 데이터 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/8%EC%9E%A5_%EB%B2%94%EC%A3%BC%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.ipynb)
+- 적합도 검정
+- 독립성 검정
+- 동질성 검정
 
 ### chapter 09 신뢰성 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/9%EC%9E%A5_%EC%8B%A0%EB%A2%B0%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
 
