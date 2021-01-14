@@ -62,6 +62,8 @@
 - 동질성 검정
 
 ### chapter 09 신뢰성 분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/9%EC%9E%A5_%EC%8B%A0%EB%A2%B0%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
+- 신뢰성과 타당성
+- 내적일관성 분석
 
 ### chapter 10 분산분석 [이론 및 코드](https://github.com/OH1107/self_study/blob/master/statistics/training/10%EC%9E%A5_%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D.ipynb)
 
